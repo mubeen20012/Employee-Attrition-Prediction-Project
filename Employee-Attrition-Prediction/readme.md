@@ -1,8 +1,4 @@
 👨‍💼 Employee Attrition Prediction System
-https://img.shields.io/badge/Python-3.8%252B-blue
-https://img.shields.io/badge/Machine-Learning-orange
-https://img.shields.io/badge/Web-App-red
-
 A comprehensive machine learning solution that predicts employee attrition risk, helping organizations proactively retain talent and reduce turnover costs.
 
 🚀 Features
@@ -137,12 +133,8 @@ This project is open source and available under the MIT License.
 
 👩‍💻 Author
 Musfira Mubeen
-https://img.shields.io/badge/GitHub-Profile-blue?logo=github
-https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin
+GitHub:https://github.com/mubeen20012/Employee-Attrition-Prediction-Project
 Data Scientist | Machine Learning Engineer
-
-Connect with the Author:
-https://img.shields.io/badge/GitHub-musfiramubeen-blue?logo=github
 
 Built with ❤️ by Musfira Mubeen
 Transforming HR strategy with data-driven insights
